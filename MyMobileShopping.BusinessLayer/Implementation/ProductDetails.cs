@@ -16,18 +16,18 @@ namespace MyMobileShopping.BusinessLayer.Implementation
                 new Product
                 {
                     MobileName="Iphone 11",
-                    MobilePrice= 780000M
+                    MobilePrice= 78000M
                 },
 
                 new Product
                 {
                     MobileName="Iphone 11 Pro",
-                    MobilePrice= 980000M
+                    MobilePrice= 98000M
                 },
                 new Product
                 {
                     MobileName="Iphone 12",
-                    MobilePrice= 850000M
+                    MobilePrice= 85000M
                 },
 
                 new Product
@@ -38,24 +38,24 @@ namespace MyMobileShopping.BusinessLayer.Implementation
                 new Product
                 {
                     MobileName="Samsung s21",
-                    MobilePrice= 750000M
+                    MobilePrice= 75000M
                 },
 
                 new Product
                 {
                     MobileName="Oppo F20",
-                    MobilePrice= 350000M
+                    MobilePrice= 35000M
                 },
                 new Product
                 {
                     MobileName="OnePlus 8",
-                    MobilePrice= 450000M
+                    MobilePrice= 45000M
                 },
 
                 new Product
                 {
                     MobileName="OnePlus 9",
-                    MobilePrice= 580000M
+                    MobilePrice= 58000M
                 },
             };
             return products;

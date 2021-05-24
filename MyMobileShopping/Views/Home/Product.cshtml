@@ -14,7 +14,14 @@
                         </div>
                        <div class="panel-body">
                            <div class="row">
-                               <h4 class="text-center">Rs. @product.MobilePrice</h4>
+                               <h4 class="text-center" data-Price="@product.MobilePrice">Rs. @product.MobilePrice</h4>
+                           </div>
+                           <div class="panel-footer">
+                               <center>
+                                   <button class="btn btn-primary cart-button">
+                                       <span class="glyphicon glyphicon-shopping-cart">Add To Cart</span>
+                                   </button>
+                               </center>
 
                            </div>
                        </div>
@@ -22,4 +29,11 @@
                 </div>
             }
 </div>
+<div id="popupmodal">
+
+</div>
+@section scripts{
+    <script src="~/Scripts/Product.js"></script>
+    }
+
 
