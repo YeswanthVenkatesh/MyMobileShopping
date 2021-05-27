@@ -1,10 +1,5 @@
-﻿using MyMobileShopping.BusinessLayer;
-using MyMobileShopping.BusinessLayer.Implementation;
+﻿using MyMobileShopping.BusinessLayer.Implementation;
 using MyMobileShopping.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 
 namespace MyMobileShopping.Controllers
