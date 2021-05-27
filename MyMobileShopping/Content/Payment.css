@@ -1,0 +1,70 @@
+﻿h1 {
+    /*border: thick;
+    background-color: cadetblue;*/
+    margin: 1em 0 0.5em 0;
+    background-color: cadetblue;
+    color: #343434;
+    font-weight: normal;
+    font-family: 'Ultra', sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    text-transform: uppercase;
+    text-shadow: 0 2px white, 0 3px #777;
+}
+h2{
+    text-align: justify;
+    color :antiquewhite;
+}
+body {
+    background-image: url(../Content/Images/image.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+
+
+.billing-mode {
+    
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+   
+}
+
+.container {
+    /*background-color: #f2f2f2;
+    padding: 5px 20px 40px 20px;
+    border: 1px solid lightgreen;
+    border-radius: 30px;
+    margin: 160px 20px ;*/
+    border-radius: 20px;
+    background-color: #f2f2f2;
+    border: 2px solid lightgreen;
+    padding: 10px;
+    margin:100px 300px 0 400px ;
+}
+
+.billing-mode-element {
+    padding: 13px;
+}
+
+.card-number, .cvv {
+    width: 250px;
+    height: 30px;
+    font-size: 23px;
+}
+
+.billing-btn {
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 40%;
+    font-size: 22px;
+    color: black;
+}
+
+.billing-btn-div {
+    text-align: center;
+    padding-top: 45px
+}
